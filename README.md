@@ -1,2 +1,3 @@
 # php-test
 Not working but just a test....
+See welcome.html code it's a owned mine code but 405 is stopping to run the Code. 405 - Not Allowed
